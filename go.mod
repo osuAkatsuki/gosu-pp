@@ -1,4 +1,4 @@
-module github.com/Wieku/gosu-pp
+module github.com/osuAkatsuki/gosu-pp
 
 go 1.17
 
