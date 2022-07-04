@@ -1,9 +1,10 @@
 package curves
 
 import (
-	"github.com/Wieku/gosu-pp/math/mutils"
-	"github.com/Wieku/gosu-pp/math/vector"
 	"sort"
+
+	"github.com/osuAkatsuki/gosu-pp/math/mutils"
+	"github.com/osuAkatsuki/gosu-pp/math/vector"
 )
 
 const minPartWidth = 0.0001

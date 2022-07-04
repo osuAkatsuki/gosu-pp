@@ -1,9 +1,10 @@
 package curves
 
 import (
-	"github.com/Wieku/gosu-pp/math/math32"
-	"github.com/Wieku/gosu-pp/math/vector"
 	"math"
+
+	"github.com/osuAkatsuki/gosu-pp/math/math32"
+	"github.com/osuAkatsuki/gosu-pp/math/vector"
 )
 
 type CirArc struct {

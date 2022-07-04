@@ -1,8 +1,9 @@
 package objects
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap/timing"
 	"strconv"
+
+	"github.com/osuAkatsuki/gosu-pp/beatmap/timing"
 )
 
 type Spinner struct {

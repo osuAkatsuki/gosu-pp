@@ -1,9 +1,10 @@
 package test
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap"
 	"os"
 	"testing"
+
+	"github.com/osuAkatsuki/gosu-pp/beatmap"
 )
 
 func TestMetadata(t *testing.T) {

@@ -1,16 +1,17 @@
 package objects
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap/audio"
-	"github.com/Wieku/gosu-pp/beatmap/difficulty"
-	"github.com/Wieku/gosu-pp/beatmap/timing"
-	"github.com/Wieku/gosu-pp/math/curves"
-	"github.com/Wieku/gosu-pp/math/mutils"
-	"github.com/Wieku/gosu-pp/math/vector"
 	"math"
 	"sort"
 	"strconv"
 	"strings"
+
+	"github.com/osuAkatsuki/gosu-pp/beatmap/audio"
+	"github.com/osuAkatsuki/gosu-pp/beatmap/difficulty"
+	"github.com/osuAkatsuki/gosu-pp/beatmap/timing"
+	"github.com/osuAkatsuki/gosu-pp/math/curves"
+	"github.com/osuAkatsuki/gosu-pp/math/mutils"
+	"github.com/osuAkatsuki/gosu-pp/math/vector"
 )
 
 type TickPoint struct {

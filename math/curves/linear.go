@@ -1,7 +1,7 @@
 package curves
 
 import (
-	"github.com/Wieku/gosu-pp/math/vector"
+	"github.com/osuAkatsuki/gosu-pp/math/vector"
 )
 
 type Linear struct {

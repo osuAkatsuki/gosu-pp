@@ -1,11 +1,12 @@
 package preprocessing
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap/difficulty"
-	"github.com/Wieku/gosu-pp/beatmap/objects"
-	"github.com/Wieku/gosu-pp/math/math32"
-	"github.com/Wieku/gosu-pp/math/vector"
 	"math"
+
+	"github.com/osuAkatsuki/gosu-pp/beatmap/difficulty"
+	"github.com/osuAkatsuki/gosu-pp/beatmap/objects"
+	"github.com/osuAkatsuki/gosu-pp/math/math32"
+	"github.com/osuAkatsuki/gosu-pp/math/vector"
 )
 
 const (

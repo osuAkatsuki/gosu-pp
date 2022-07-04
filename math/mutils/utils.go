@@ -1,8 +1,9 @@
 package mutils
 
 import (
-	"github.com/Wieku/gosu-pp/math/math32"
 	"math"
+
+	"github.com/osuAkatsuki/gosu-pp/math/math32"
 )
 
 func ClampF32(x, min, max float32) float32 {

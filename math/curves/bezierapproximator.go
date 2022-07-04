@@ -1,8 +1,9 @@
 package curves
 
 import (
-	"github.com/Wieku/gosu-pp/math/vector"
 	"sync"
+
+	"github.com/osuAkatsuki/gosu-pp/math/vector"
 )
 
 const BezierQuantization = 0.5

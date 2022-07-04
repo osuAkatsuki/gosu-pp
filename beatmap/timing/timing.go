@@ -1,9 +1,10 @@
 package timing
 
 import (
-	"github.com/Wieku/gosu-pp/math/mutils"
 	"math"
 	"sort"
+
+	"github.com/osuAkatsuki/gosu-pp/math/mutils"
 )
 
 type ControlPoint struct {

@@ -3,14 +3,15 @@ package beatmap
 import (
 	"bytes"
 	"errors"
-	"github.com/Wieku/gosu-pp/beatmap/objects"
-	"github.com/Wieku/gosu-pp/files"
-	"github.com/Wieku/gosu-pp/math/mutils"
 	"io"
 	"math"
 	"sort"
 	"strconv"
 	"strings"
+
+	"github.com/osuAkatsuki/gosu-pp/beatmap/objects"
+	"github.com/osuAkatsuki/gosu-pp/files"
+	"github.com/osuAkatsuki/gosu-pp/math/mutils"
 )
 
 const bufferSize = 10 * 1024 * 1024

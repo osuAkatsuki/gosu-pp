@@ -1,9 +1,10 @@
 package beatmap
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap/difficulty"
-	"github.com/Wieku/gosu-pp/beatmap/objects"
 	"math"
+
+	"github.com/osuAkatsuki/gosu-pp/beatmap/difficulty"
+	"github.com/osuAkatsuki/gosu-pp/beatmap/objects"
 )
 
 //Original code by: https://github.com/ppy/osu/blob/master/osu.Game.Rulesets.Osu/Beatmaps/OsuBeatmapProcessor.cs

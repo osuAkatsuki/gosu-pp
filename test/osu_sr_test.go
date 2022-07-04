@@ -1,11 +1,12 @@
 package test
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap"
-	"github.com/Wieku/gosu-pp/beatmap/difficulty"
-	"github.com/Wieku/gosu-pp/performance/osu"
 	"os"
 	"testing"
+
+	"github.com/osuAkatsuki/gosu-pp/beatmap"
+	"github.com/osuAkatsuki/gosu-pp/beatmap/difficulty"
+	"github.com/osuAkatsuki/gosu-pp/performance/osu"
 )
 
 //TODO: Replace test values with osu-tools generated ones

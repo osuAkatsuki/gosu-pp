@@ -1,9 +1,10 @@
 package osu
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap/difficulty"
-	"github.com/Wieku/gosu-pp/math/mutils"
 	"math"
+
+	"github.com/osuAkatsuki/gosu-pp/beatmap/difficulty"
+	"github.com/osuAkatsuki/gosu-pp/math/mutils"
 )
 
 /* ------------------------------------------------------------- */

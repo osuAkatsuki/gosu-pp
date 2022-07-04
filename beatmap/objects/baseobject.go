@@ -1,9 +1,10 @@
 package objects
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap/audio"
-	"github.com/Wieku/gosu-pp/math/vector"
 	"strconv"
+
+	"github.com/osuAkatsuki/gosu-pp/beatmap/audio"
+	"github.com/osuAkatsuki/gosu-pp/math/vector"
 )
 
 func commonParse(data []string) *HitObject {

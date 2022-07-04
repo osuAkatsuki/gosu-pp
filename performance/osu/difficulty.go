@@ -1,11 +1,12 @@
 package osu
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap/difficulty"
-	"github.com/Wieku/gosu-pp/beatmap/objects"
-	"github.com/Wieku/gosu-pp/performance/osu/preprocessing"
-	"github.com/Wieku/gosu-pp/performance/osu/skills"
 	"math"
+
+	"github.com/osuAkatsuki/gosu-pp/beatmap/difficulty"
+	"github.com/osuAkatsuki/gosu-pp/beatmap/objects"
+	"github.com/osuAkatsuki/gosu-pp/performance/osu/preprocessing"
+	"github.com/osuAkatsuki/gosu-pp/performance/osu/skills"
 )
 
 const (

@@ -1,12 +1,13 @@
 package beatmap
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap/difficulty"
-	"github.com/Wieku/gosu-pp/beatmap/objects"
-	"github.com/Wieku/gosu-pp/beatmap/timing"
 	"math"
 	"strconv"
 	"strings"
+
+	"github.com/osuAkatsuki/gosu-pp/beatmap/difficulty"
+	"github.com/osuAkatsuki/gosu-pp/beatmap/objects"
+	"github.com/osuAkatsuki/gosu-pp/beatmap/timing"
 )
 
 type BeatMap struct {

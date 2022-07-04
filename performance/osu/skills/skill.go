@@ -1,11 +1,12 @@
 package skills
 
 import (
-	"github.com/Wieku/gosu-pp/beatmap/difficulty"
-	"github.com/Wieku/gosu-pp/math/mutils"
-	"github.com/Wieku/gosu-pp/performance/osu/preprocessing"
 	"math"
 	"sort"
+
+	"github.com/osuAkatsuki/gosu-pp/beatmap/difficulty"
+	"github.com/osuAkatsuki/gosu-pp/math/mutils"
+	"github.com/osuAkatsuki/gosu-pp/performance/osu/preprocessing"
 )
 
 type Skill struct {
